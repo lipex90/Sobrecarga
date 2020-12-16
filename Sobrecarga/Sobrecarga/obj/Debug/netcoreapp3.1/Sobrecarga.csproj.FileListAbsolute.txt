@@ -1,0 +1,13 @@
+C:\Users\liped\source\repos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.exe
+C:\Users\liped\source\repos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.deps.json
+C:\Users\liped\source\repos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.runtimeconfig.json
+C:\Users\liped\source\repos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.runtimeconfig.dev.json
+C:\Users\liped\source\repos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.dll
+C:\Users\liped\source\repos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.pdb
+C:\Users\liped\source\repos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.csprojAssemblyReference.cache
+C:\Users\liped\source\repos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\liped\source\repos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.AssemblyInfo.cs
+C:\Users\liped\source\repos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\liped\source\repos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.dll
+C:\Users\liped\source\repos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.pdb
+C:\Users\liped\source\repos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.genruntimeconfig.cache
